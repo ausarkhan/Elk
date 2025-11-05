@@ -1,4 +1,6 @@
 # Elk
+
+![CI](https://github.com/ausarkhan/Elk/actions/workflows/python-tests.yml/badge.svg)
 tayjmcdile-alt, ausarkhan, apaiz12, ericbutler1209
 <https://github.com/nishantsahoo/IMDB_Top50_Scrape>
 
