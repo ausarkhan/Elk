@@ -2,8 +2,7 @@ DataSets
 # ignore svg source files (keep pngs committed)
 Assets/*.svg
 # keep UML svg untracked so lead can commit it later
-# (remove the previous negative rule that forced tracking)
-Assets/uml.png
+# (removed the previous rule that forced tracking of uml.png)
 .venv/
 __pycache__/
 *.py[cod]
